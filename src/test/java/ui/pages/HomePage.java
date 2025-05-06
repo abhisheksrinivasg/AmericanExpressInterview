@@ -43,6 +43,9 @@ public class HomePage extends BasePage{
             }}
 
             public void login () throws InterruptedException {
+                String expectedTitle = "American Express - CARTE GOLD AMERICAN EXPRESS";
+                String actualTitle = driver.getTitle();
+                Assert.assertEquals(actualTitle, expectedTitle, "Title does not match");
                 commonMethods.click(homePageLocators.devenirClient, driver, "Clicking on DenverClient");
                 closePopup();
                 commonMethods.click(homePageLocators.lesCartesAmericanExpress, driver, "Clicking on American Express");
@@ -70,6 +73,12 @@ public class HomePage extends BasePage{
                 commonMethods.sendKeys(homePageLocators.email, testData.get("Email"));
                 commonMethods.sendKeys(homePageLocators.mobile,testData.get("Mobile"));
                 commonMethods.click(homePageLocators.submit, driver, "Clicked on Submit");
+            }
+
+            public void verify()
+            {
+                String error = homePageLocators.alert.getText();
+                Assert.assertEquals(error,testData.get("FirstNameError"));
             }
 
         }
