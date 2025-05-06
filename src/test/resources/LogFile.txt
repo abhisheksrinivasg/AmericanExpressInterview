@@ -1,0 +1,798 @@
+2025-05-06 22:35:52 -- Execution Log Started
+2025-05-06 22:36:00 -- CreditCard Logging Starts
+2025-05-06 22:36:00 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-06 22:36:01 -- Element is now visible
+2025-05-06 22:36:01 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:36:01 -- Element is now clickable
+2025-05-06 22:36:01 -- Element Closing PopUp is clicked
+2025-05-06 22:36:01 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-06 22:36:01 -- Element is now visible
+2025-05-06 22:36:01 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:36:02 -- Element is now clickable
+2025-05-06 22:36:02 -- Element Clicking on DenverClient is clicked
+2025-05-06 22:36:02 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-06 22:36:02 -- Element is now visible
+2025-05-06 22:36:02 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:36:02 -- Element is now clickable
+2025-05-06 22:36:06 -- Element Clicking on American Express is clicked
+2025-05-06 22:36:06 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-06 22:36:06 -- Element is now visible
+2025-05-06 22:36:06 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:36:06 -- Element is now clickable
+2025-05-06 22:36:09 -- Element Clicking on En Savoir Plus is clicked
+2025-05-06 22:36:09 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-06 22:36:09 -- Element is now visible
+2025-05-06 22:36:09 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:36:09 -- Element is now clickable
+2025-05-06 22:36:12 -- Element Clicking on Demandez Vorte is clicked
+2025-05-06 22:39:51 -- Execution Log Started
+2025-05-06 22:40:00 -- CreditCard Logging Starts
+2025-05-06 22:40:00 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-06 22:40:01 -- Element is now visible
+2025-05-06 22:40:01 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:40:01 -- Element is now clickable
+2025-05-06 22:40:01 -- Element Closing PopUp is clicked
+2025-05-06 22:40:01 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-06 22:40:01 -- Element is now visible
+2025-05-06 22:40:01 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:40:01 -- Element is now clickable
+2025-05-06 22:40:02 -- Element Clicking on DenverClient is clicked
+2025-05-06 22:40:02 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-06 22:40:02 -- Element is now visible
+2025-05-06 22:40:02 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:40:02 -- Element is now clickable
+2025-05-06 22:40:07 -- Element Clicking on American Express is clicked
+2025-05-06 22:40:07 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-06 22:40:07 -- Element is now visible
+2025-05-06 22:40:07 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:40:07 -- Element is now clickable
+2025-05-06 22:40:34 -- Execution Log Started
+2025-05-06 22:40:42 -- CreditCard Logging Starts
+2025-05-06 22:40:42 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-06 22:40:43 -- Element is now visible
+2025-05-06 22:40:43 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:40:43 -- Element is now clickable
+2025-05-06 22:40:43 -- Element Closing PopUp is clicked
+2025-05-06 22:40:43 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-06 22:40:43 -- Element is now visible
+2025-05-06 22:40:43 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:40:43 -- Element is now clickable
+2025-05-06 22:40:44 -- Element Clicking on DenverClient is clicked
+2025-05-06 22:40:44 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-06 22:40:44 -- Element is now visible
+2025-05-06 22:40:44 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:40:44 -- Element is now clickable
+2025-05-06 22:40:48 -- Element Clicking on American Express is clicked
+2025-05-06 22:40:48 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-06 22:40:48 -- Element is now visible
+2025-05-06 22:40:48 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:40:48 -- Element is now clickable
+2025-05-06 22:40:50 -- Element Clicking on En Savoir Plus is clicked
+2025-05-06 22:40:50 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-06 22:40:50 -- Element is now visible
+2025-05-06 22:40:50 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:40:50 -- Element is now clickable
+2025-05-06 22:40:52 -- Element Clicking on Demandez Vorte is clicked
+2025-05-06 22:41:40 -- Execution Log Started
+2025-05-06 22:41:49 -- CreditCard Logging Starts
+2025-05-06 22:41:49 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-06 22:41:50 -- Element is now visible
+2025-05-06 22:41:50 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:41:50 -- Element is now clickable
+2025-05-06 22:41:50 -- Element Closing PopUp is clicked
+2025-05-06 22:41:50 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-06 22:41:50 -- Element is now visible
+2025-05-06 22:41:50 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:41:50 -- Element is now clickable
+2025-05-06 22:41:50 -- Element Clicking on DenverClient is clicked
+2025-05-06 22:41:50 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-06 22:41:50 -- Element is now visible
+2025-05-06 22:41:50 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:41:51 -- Element is now clickable
+2025-05-06 22:41:54 -- Element Clicking on American Express is clicked
+2025-05-06 22:41:54 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-06 22:41:54 -- Element is now visible
+2025-05-06 22:41:54 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:41:54 -- Element is now clickable
+2025-05-06 22:42:10 -- Execution Log Started
+2025-05-06 22:42:18 -- CreditCard Logging Starts
+2025-05-06 22:42:18 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-06 22:42:19 -- Element is now visible
+2025-05-06 22:42:19 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:42:19 -- Element is now clickable
+2025-05-06 22:42:19 -- Element Closing PopUp is clicked
+2025-05-06 22:42:19 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-06 22:42:19 -- Element is now visible
+2025-05-06 22:42:19 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:42:20 -- Element is now clickable
+2025-05-06 22:42:20 -- Element Clicking on DenverClient is clicked
+2025-05-06 22:42:20 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-06 22:42:20 -- Element is now visible
+2025-05-06 22:42:20 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:42:20 -- Element is now clickable
+2025-05-06 22:42:26 -- Element Clicking on American Express is clicked
+2025-05-06 22:42:26 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-06 22:42:26 -- Element is now visible
+2025-05-06 22:42:26 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:42:26 -- Element is now clickable
+2025-05-06 22:44:04 -- Execution Log Started
+2025-05-06 22:44:14 -- CreditCard Logging Starts
+2025-05-06 22:44:14 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-06 22:44:15 -- Element is now visible
+2025-05-06 22:44:15 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:44:15 -- Element is now clickable
+2025-05-06 22:44:15 -- Element Closing PopUp is clicked
+2025-05-06 22:44:15 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-06 22:44:15 -- Element is now visible
+2025-05-06 22:44:15 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:44:16 -- Element is now clickable
+2025-05-06 22:44:16 -- Element Clicking on DenverClient is clicked
+2025-05-06 22:44:16 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-06 22:44:16 -- Element is now visible
+2025-05-06 22:44:16 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:44:16 -- Element is now clickable
+2025-05-06 22:44:21 -- Element Clicking on American Express is clicked
+2025-05-06 22:44:21 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-06 22:44:21 -- Element is now visible
+2025-05-06 22:44:21 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:44:21 -- Element is now clickable
+2025-05-06 22:45:16 -- Execution Log Started
+2025-05-06 22:45:24 -- CreditCard Logging Starts
+2025-05-06 22:45:24 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-06 22:45:25 -- Element is now visible
+2025-05-06 22:45:25 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:45:25 -- Element is now clickable
+2025-05-06 22:45:25 -- Element Closing PopUp is clicked
+2025-05-06 22:45:25 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-06 22:45:25 -- Element is now visible
+2025-05-06 22:45:25 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:45:25 -- Element is now clickable
+2025-05-06 22:45:26 -- Element Clicking on DenverClient is clicked
+2025-05-06 22:45:26 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-06 22:45:26 -- Element is now visible
+2025-05-06 22:45:26 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:45:26 -- Element is now clickable
+2025-05-06 22:45:31 -- Element Clicking on American Express is clicked
+2025-05-06 22:45:31 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-06 22:45:31 -- Element is now visible
+2025-05-06 22:45:31 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:45:32 -- Element is now clickable
+2025-05-06 22:45:34 -- Element Clicking on En Savoir Plus is clicked
+2025-05-06 22:45:34 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-06 22:45:34 -- Element is now visible
+2025-05-06 22:45:34 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:45:34 -- Element is now clickable
+2025-05-06 22:45:36 -- Element Clicking on Demandez Vorte is clicked
+2025-05-06 22:50:00 -- Execution Log Started
+2025-05-06 22:50:09 -- CreditCard Logging Starts
+2025-05-06 22:50:09 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-06 22:50:10 -- Element is now visible
+2025-05-06 22:50:10 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:50:10 -- Element is now clickable
+2025-05-06 22:50:10 -- Element Closing PopUp is clicked
+2025-05-06 22:50:10 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-06 22:50:10 -- Element is now visible
+2025-05-06 22:50:10 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:50:10 -- Element is now clickable
+2025-05-06 22:50:11 -- Element Clicking on DenverClient is clicked
+2025-05-06 22:50:11 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-06 22:50:11 -- Element is now visible
+2025-05-06 22:50:11 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:50:11 -- Element is now clickable
+2025-05-06 22:50:16 -- Element Clicking on American Express is clicked
+2025-05-06 22:50:16 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-06 22:50:16 -- Element is now visible
+2025-05-06 22:50:16 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:50:16 -- Element is now clickable
+2025-05-06 22:50:18 -- Element Clicking on En Savoir Plus is clicked
+2025-05-06 22:50:18 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-06 22:50:18 -- Element is now visible
+2025-05-06 22:50:18 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:50:18 -- Element is now clickable
+2025-05-06 22:50:21 -- Element Clicking on Demandez Vorte is clicked
+2025-05-06 22:53:06 -- Execution Log Started
+2025-05-06 22:53:14 -- CreditCard Logging Starts
+2025-05-06 22:53:15 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-06 22:53:15 -- Element is now visible
+2025-05-06 22:53:15 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:53:15 -- Element is now clickable
+2025-05-06 22:53:15 -- Element Closing PopUp is clicked
+2025-05-06 22:53:15 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-06 22:53:15 -- Element is now visible
+2025-05-06 22:53:15 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:53:15 -- Element is now clickable
+2025-05-06 22:53:16 -- Element Clicking on DenverClient is clicked
+2025-05-06 22:53:16 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-06 22:53:16 -- Element is now visible
+2025-05-06 22:53:16 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:53:16 -- Element is now clickable
+2025-05-06 22:53:19 -- Element Clicking on American Express is clicked
+2025-05-06 22:53:19 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-06 22:53:19 -- Element is now visible
+2025-05-06 22:53:19 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:53:20 -- Element is now clickable
+2025-05-06 22:53:33 -- Execution Log Started
+2025-05-06 22:53:42 -- CreditCard Logging Starts
+2025-05-06 22:53:42 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-06 22:53:43 -- Element is now visible
+2025-05-06 22:53:43 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:53:43 -- Element is now clickable
+2025-05-06 22:53:43 -- Element Closing PopUp is clicked
+2025-05-06 22:53:43 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-06 22:53:43 -- Element is now visible
+2025-05-06 22:53:43 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:53:44 -- Element is now clickable
+2025-05-06 22:53:44 -- Element Clicking on DenverClient is clicked
+2025-05-06 22:53:44 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-06 22:53:44 -- Element is now visible
+2025-05-06 22:53:44 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:53:44 -- Element is now clickable
+2025-05-06 22:53:49 -- Element Clicking on American Express is clicked
+2025-05-06 22:53:49 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-06 22:53:49 -- Element is now visible
+2025-05-06 22:53:49 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:53:49 -- Element is now clickable
+2025-05-06 22:53:51 -- Element Clicking on En Savoir Plus is clicked
+2025-05-06 22:53:51 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-06 22:53:51 -- Element is now visible
+2025-05-06 22:53:51 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:53:52 -- Element is now clickable
+2025-05-06 22:53:54 -- Element Clicking on Demandez Vorte is clicked
+2025-05-06 22:53:57 -- Scrolled till the element FirstName
+2025-05-06 22:53:57 -- Abhishek is sent
+2025-05-06 22:53:57 -- Srinivas is sent
+2025-05-06 22:53:58 -- Sun Nov 02 00:00:00 IST 1997 is sent
+2025-05-06 22:56:23 -- Execution Log Started
+2025-05-06 22:56:32 -- CreditCard Logging Starts
+2025-05-06 22:56:33 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-06 22:56:34 -- Element is now visible
+2025-05-06 22:56:34 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:56:34 -- Element is now clickable
+2025-05-06 22:56:34 -- Element Closing PopUp is clicked
+2025-05-06 22:56:34 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-06 22:56:34 -- Element is now visible
+2025-05-06 22:56:34 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:56:34 -- Element is now clickable
+2025-05-06 22:56:34 -- Element Clicking on DenverClient is clicked
+2025-05-06 22:56:34 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-06 22:56:34 -- Element is now visible
+2025-05-06 22:56:34 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:56:34 -- Element is now clickable
+2025-05-06 22:56:38 -- Element Clicking on American Express is clicked
+2025-05-06 22:56:38 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-06 22:56:38 -- Element is now visible
+2025-05-06 22:56:38 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:56:38 -- Element is now clickable
+2025-05-06 22:56:39 -- Element Clicking on En Savoir Plus is clicked
+2025-05-06 22:56:39 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-06 22:56:41 -- Element is now visible
+2025-05-06 22:56:41 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 22:56:41 -- Element is now clickable
+2025-05-06 22:56:44 -- Element Clicking on Demandez Vorte is clicked
+2025-05-06 22:56:48 -- Scrolled till the element FirstName
+2025-05-06 22:56:48 -- Abhishek is sent
+2025-05-06 22:56:48 -- Srinivas is sent
+2025-05-06 22:56:49 -- Sun Nov 02 00:00:00 IST 1997 is sent
+2025-05-06 23:01:26 -- Execution Log Started
+2025-05-06 23:01:35 -- CreditCard Logging Starts
+2025-05-06 23:01:35 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-06 23:01:36 -- Element is now visible
+2025-05-06 23:01:36 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 23:01:36 -- Element is now clickable
+2025-05-06 23:01:36 -- Element Closing PopUp is clicked
+2025-05-06 23:01:36 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-06 23:01:36 -- Element is now visible
+2025-05-06 23:01:36 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 23:01:36 -- Element is now clickable
+2025-05-06 23:01:36 -- Element Clicking on DenverClient is clicked
+2025-05-06 23:01:36 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-06 23:01:37 -- Element is now visible
+2025-05-06 23:01:37 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 23:01:37 -- Element is now clickable
+2025-05-06 23:01:42 -- Element Clicking on American Express is clicked
+2025-05-06 23:01:42 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-06 23:01:42 -- Element is now visible
+2025-05-06 23:01:42 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 23:01:42 -- Element is now clickable
+2025-05-06 23:01:44 -- Element Clicking on En Savoir Plus is clicked
+2025-05-06 23:01:44 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-06 23:01:44 -- Element is now visible
+2025-05-06 23:01:44 -- Waiting for the element to become clickable before applying the wait
+2025-05-06 23:01:44 -- Element is now clickable
+2025-05-06 23:01:47 -- Element Clicking on Demandez Vorte is clicked
+2025-05-06 23:01:50 -- Scrolled till the element FirstName
+2025-05-06 23:01:51 -- Abhishek is sent
+2025-05-06 23:01:51 -- Srinivas is sent
+2025-05-06 23:01:51 -- 02111997 is sent
+2025-05-07 00:16:17 -- Execution Log Started
+2025-05-07 00:16:25 -- CreditCard Logging Starts
+2025-05-07 00:16:25 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-07 00:16:26 -- Element is now visible
+2025-05-07 00:16:26 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:16:26 -- Element is now clickable
+2025-05-07 00:16:26 -- Element Closing PopUp is clicked
+2025-05-07 00:16:26 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 00:16:26 -- Element is now visible
+2025-05-07 00:16:26 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:16:26 -- Element is now clickable
+2025-05-07 00:16:26 -- Element Clicking on DenverClient is clicked
+2025-05-07 00:16:26 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 00:16:26 -- Element is now visible
+2025-05-07 00:16:26 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:16:26 -- Element is now clickable
+2025-05-07 00:16:31 -- Element Clicking on American Express is clicked
+2025-05-07 00:16:31 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 00:16:31 -- Element is now visible
+2025-05-07 00:16:31 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:16:31 -- Element is now clickable
+2025-05-07 00:16:33 -- Element Clicking on En Savoir Plus is clicked
+2025-05-07 00:16:33 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-07 00:16:33 -- Element is now visible
+2025-05-07 00:16:33 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:16:33 -- Element is now clickable
+2025-05-07 00:16:35 -- Element Clicking on Demandez Vorte is clicked
+2025-05-07 00:16:38 -- Scrolled till the element FirstName
+2025-05-07 00:16:38 -- Abhishek is sent
+2025-05-07 00:16:39 -- Srinivas is sent
+2025-05-07 00:16:39 -- 02111997 is sent
+2025-05-07 00:16:39 -- abhishek@gmail.com is sent
+2025-05-07 00:16:39 -- Waiting for the Clicked on Submit element to become visible before applying the wait
+2025-05-07 00:16:39 -- Element is now visible
+2025-05-07 00:16:39 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:16:39 -- Element is now clickable
+2025-05-07 00:17:01 -- Execution Log Started
+2025-05-07 00:17:07 -- CreditCard Logging Starts
+2025-05-07 00:17:07 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-07 00:17:08 -- Element is now visible
+2025-05-07 00:17:08 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:17:08 -- Element is now clickable
+2025-05-07 00:17:08 -- Element Closing PopUp is clicked
+2025-05-07 00:17:08 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 00:17:08 -- Element is now visible
+2025-05-07 00:17:08 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:17:08 -- Element is now clickable
+2025-05-07 00:17:08 -- Element Clicking on DenverClient is clicked
+2025-05-07 00:17:08 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 00:17:08 -- Element is now visible
+2025-05-07 00:17:08 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:17:09 -- Element is now clickable
+2025-05-07 00:17:12 -- Element Clicking on American Express is clicked
+2025-05-07 00:17:12 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 00:17:12 -- Element is now visible
+2025-05-07 00:17:12 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:17:12 -- Element is now clickable
+2025-05-07 00:17:13 -- Element Clicking on En Savoir Plus is clicked
+2025-05-07 00:17:13 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-07 00:17:13 -- Element is now visible
+2025-05-07 00:17:13 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:17:13 -- Element is now clickable
+2025-05-07 00:17:15 -- Element Clicking on Demandez Vorte is clicked
+2025-05-07 00:17:18 -- Scrolled till the element FirstName
+2025-05-07 00:17:19 -- Abhishek is sent
+2025-05-07 00:17:19 -- Srinivas is sent
+2025-05-07 00:17:19 -- 02111997 is sent
+2025-05-07 00:17:19 -- abhishek@gmail.com is sent
+2025-05-07 00:17:19 -- Waiting for the Clicked on Submit element to become visible before applying the wait
+2025-05-07 00:17:19 -- Element is now visible
+2025-05-07 00:17:19 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:17:19 -- Element is now clickable
+2025-05-07 00:17:20 -- Element Clicked on Submit is clicked
+2025-05-07 00:19:16 -- Execution Log Started
+2025-05-07 00:19:22 -- CreditCard Logging Starts
+2025-05-07 00:19:22 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-07 00:19:23 -- Element is now visible
+2025-05-07 00:19:23 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:19:23 -- Element is now clickable
+2025-05-07 00:19:23 -- Element Closing PopUp is clicked
+2025-05-07 00:19:23 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 00:19:23 -- Element is now visible
+2025-05-07 00:19:23 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:19:23 -- Element is now clickable
+2025-05-07 00:19:23 -- Element Clicking on DenverClient is clicked
+2025-05-07 00:19:23 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 00:19:23 -- Element is now visible
+2025-05-07 00:19:23 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:19:23 -- Element is now clickable
+2025-05-07 00:19:26 -- Element Clicking on American Express is clicked
+2025-05-07 00:19:26 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 00:19:26 -- Element is now visible
+2025-05-07 00:19:26 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:19:26 -- Element is now clickable
+2025-05-07 00:20:11 -- Execution Log Started
+2025-05-07 00:20:18 -- CreditCard Logging Starts
+2025-05-07 00:20:21 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-07 00:20:21 -- Element is now visible
+2025-05-07 00:20:21 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:20:21 -- Element is now clickable
+2025-05-07 00:20:21 -- Element Closing PopUp is clicked
+2025-05-07 00:20:21 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 00:20:21 -- Element is now visible
+2025-05-07 00:20:21 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:20:21 -- Element is now clickable
+2025-05-07 00:20:21 -- Element Clicking on DenverClient is clicked
+2025-05-07 00:20:21 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 00:20:21 -- Element is now visible
+2025-05-07 00:20:21 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:20:21 -- Element is now clickable
+2025-05-07 00:20:26 -- Element Clicking on American Express is clicked
+2025-05-07 00:20:26 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 00:20:26 -- Element is now visible
+2025-05-07 00:20:26 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:20:27 -- Element is now clickable
+2025-05-07 00:23:07 -- Execution Log Started
+2025-05-07 00:23:14 -- CreditCard Logging Starts
+2025-05-07 00:23:17 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-07 00:23:17 -- Element is now visible
+2025-05-07 00:23:17 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:23:17 -- Element is now clickable
+2025-05-07 00:23:17 -- Element Closing PopUp is clicked
+2025-05-07 00:23:17 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 00:23:17 -- Element is now visible
+2025-05-07 00:23:17 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:23:17 -- Element is now clickable
+2025-05-07 00:23:17 -- Element Clicking on DenverClient is clicked
+2025-05-07 00:23:17 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 00:23:17 -- Element is now visible
+2025-05-07 00:23:17 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:23:17 -- Element is now clickable
+2025-05-07 00:23:22 -- Element Clicking on American Express is clicked
+2025-05-07 00:23:22 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 00:23:22 -- Element is now visible
+2025-05-07 00:23:22 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:23:22 -- Element is now clickable
+2025-05-07 00:23:24 -- Element Clicking on En Savoir Plus is clicked
+2025-05-07 00:23:24 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-07 00:23:24 -- Element is now visible
+2025-05-07 00:23:24 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:23:24 -- Element is now clickable
+2025-05-07 00:23:27 -- Element Clicking on Demandez Vorte is clicked
+2025-05-07 00:23:30 -- Scrolled till the element FirstName
+2025-05-07 00:23:30 -- Abhishek is sent
+2025-05-07 00:23:30 -- Srinivas is sent
+2025-05-07 00:23:30 -- 02111997 is sent
+2025-05-07 00:23:31 -- abhishek@gmail.com is sent
+2025-05-07 00:23:31 -- Waiting for the Clicked on Submit element to become visible before applying the wait
+2025-05-07 00:23:31 -- Element is now visible
+2025-05-07 00:23:31 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:23:31 -- Element is now clickable
+2025-05-07 00:23:31 -- Element Clicked on Submit is clicked
+2025-05-07 00:29:10 -- Execution Log Started
+2025-05-07 00:29:16 -- CreditCard Logging Starts
+2025-05-07 00:29:16 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-07 00:29:17 -- Element is now visible
+2025-05-07 00:29:17 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:29:17 -- Element is now clickable
+2025-05-07 00:29:17 -- Element Closing PopUp is clicked
+2025-05-07 00:29:17 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 00:29:17 -- Element is now visible
+2025-05-07 00:29:17 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:29:17 -- Element is now clickable
+2025-05-07 00:29:17 -- Element Clicking on DenverClient is clicked
+2025-05-07 00:29:17 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-07 00:29:47 -- Timeout exceptionClosing PopUp
+2025-05-07 00:30:35 -- Execution Log Started
+2025-05-07 00:30:41 -- CreditCard Logging Starts
+2025-05-07 00:30:41 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-07 00:30:42 -- Element is now visible
+2025-05-07 00:30:42 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:30:42 -- Element is now clickable
+2025-05-07 00:30:42 -- Element Closing PopUp is clicked
+2025-05-07 00:30:42 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 00:30:42 -- Element is now visible
+2025-05-07 00:30:42 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:30:42 -- Element is now clickable
+2025-05-07 00:30:42 -- Element Clicking on DenverClient is clicked
+2025-05-07 00:30:42 -- Waiting for the Closing PopUp element to become visible before applying the wait
+2025-05-07 00:31:12 -- Timeout exceptionClosing PopUp
+2025-05-07 00:31:12 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 00:31:12 -- Element is now visible
+2025-05-07 00:31:12 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:31:12 -- Element is now clickable
+2025-05-07 00:31:18 -- Element Clicking on American Express is clicked
+2025-05-07 00:31:18 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 00:31:18 -- Element is now visible
+2025-05-07 00:31:18 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:31:18 -- Element is now clickable
+2025-05-07 00:31:23 -- Element Clicking on En Savoir Plus is clicked
+2025-05-07 00:31:23 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-07 00:31:23 -- Element is now visible
+2025-05-07 00:31:23 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:31:23 -- Element is now clickable
+2025-05-07 00:31:25 -- Element Clicking on Demandez Vorte is clicked
+2025-05-07 00:31:28 -- Scrolled till the element FirstName
+2025-05-07 00:31:28 -- Abhishek is sent
+2025-05-07 00:31:28 -- Srinivas is sent
+2025-05-07 00:31:28 -- 02111997 is sent
+2025-05-07 00:31:28 -- abhishek@gmail.com is sent
+2025-05-07 00:31:28 -- Waiting for the Clicked on Submit element to become visible before applying the wait
+2025-05-07 00:31:28 -- Element is now visible
+2025-05-07 00:31:28 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:31:28 -- Element is now clickable
+2025-05-07 00:31:28 -- Element Clicked on Submit is clicked
+2025-05-07 00:34:23 -- Execution Log Started
+2025-05-07 00:34:29 -- CreditCard Logging Starts
+2025-05-07 00:34:29 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 00:34:29 -- Element is now visible
+2025-05-07 00:34:30 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:34:30 -- Element is now clickable
+2025-05-07 00:34:30 -- Element Clicking on DenverClient is clicked
+2025-05-07 00:34:30 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 00:34:31 -- Element is now visible
+2025-05-07 00:34:31 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:34:31 -- Element is now clickable
+2025-05-07 00:34:36 -- Element Clicking on American Express is clicked
+2025-05-07 00:34:36 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 00:34:36 -- Element is now visible
+2025-05-07 00:34:36 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:34:36 -- Element is now clickable
+2025-05-07 00:34:37 -- Element Clicking on En Savoir Plus is clicked
+2025-05-07 00:34:37 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-07 00:34:37 -- Element is now visible
+2025-05-07 00:34:37 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:34:37 -- Element is now clickable
+2025-05-07 00:34:39 -- Element Clicking on Demandez Vorte is clicked
+2025-05-07 00:34:42 -- Scrolled till the element FirstName
+2025-05-07 00:34:42 -- Abhishek is sent
+2025-05-07 00:34:43 -- Srinivas is sent
+2025-05-07 00:34:43 -- 02111997 is sent
+2025-05-07 00:34:43 -- abhishek@gmail.com is sent
+2025-05-07 00:34:43 -- Waiting for the Clicked on Submit element to become visible before applying the wait
+2025-05-07 00:34:43 -- Element is now visible
+2025-05-07 00:34:43 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:34:43 -- Element is now clickable
+2025-05-07 00:35:28 -- Execution Log Started
+2025-05-07 00:35:35 -- CreditCard Logging Starts
+2025-05-07 00:35:35 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 00:35:35 -- Element is now visible
+2025-05-07 00:35:35 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:35:35 -- Element is now clickable
+2025-05-07 00:35:35 -- Element Clicking on DenverClient is clicked
+2025-05-07 00:35:36 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 00:35:36 -- Element is now visible
+2025-05-07 00:35:36 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:35:36 -- Element is now clickable
+2025-05-07 00:35:41 -- Element Clicking on American Express is clicked
+2025-05-07 00:35:41 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 00:35:41 -- Element is now visible
+2025-05-07 00:35:41 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:35:41 -- Element is now clickable
+2025-05-07 00:35:43 -- Element Clicking on En Savoir Plus is clicked
+2025-05-07 00:35:49 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-07 00:35:49 -- Element is now visible
+2025-05-07 00:35:49 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:35:49 -- Element is now clickable
+2025-05-07 00:35:51 -- Element Clicking on Demandez Vorte is clicked
+2025-05-07 00:35:59 -- Scrolled till the element FirstName
+2025-05-07 00:36:00 -- Abhishek is sent
+2025-05-07 00:36:00 -- Srinivas is sent
+2025-05-07 00:36:00 -- 02111997 is sent
+2025-05-07 00:36:00 -- abhishek@gmail.com is sent
+2025-05-07 00:36:00 -- Waiting for the Clicked on Submit element to become visible before applying the wait
+2025-05-07 00:36:00 -- Element is now visible
+2025-05-07 00:36:00 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:36:00 -- Element is now clickable
+2025-05-07 00:36:00 -- Element Clicked on Submit is clicked
+2025-05-07 00:45:00 -- Execution Log Started
+2025-05-07 00:45:08 -- CreditCard Logging Starts
+2025-05-07 00:45:08 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 00:45:08 -- Element is now visible
+2025-05-07 00:45:08 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:45:08 -- Element is now clickable
+2025-05-07 00:45:08 -- Element Clicking on DenverClient is clicked
+2025-05-07 00:45:09 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 00:45:09 -- Element is now visible
+2025-05-07 00:45:09 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:45:09 -- Element is now clickable
+2025-05-07 00:45:14 -- Element Clicking on American Express is clicked
+2025-05-07 00:45:15 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 00:45:15 -- Element is now visible
+2025-05-07 00:45:15 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:45:15 -- Element is now clickable
+2025-05-07 00:45:16 -- Element Clicking on En Savoir Plus is clicked
+2025-05-07 00:45:22 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-07 00:45:22 -- Element is now visible
+2025-05-07 00:45:22 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:45:22 -- Element is now clickable
+2025-05-07 00:45:24 -- Element Clicking on Demandez Vorte is clicked
+2025-05-07 00:46:38 -- Execution Log Started
+2025-05-07 00:46:44 -- CreditCard Logging Starts
+2025-05-07 00:46:44 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 00:46:44 -- Element is now visible
+2025-05-07 00:46:44 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:46:44 -- Element is now clickable
+2025-05-07 00:46:44 -- Element Clicking on DenverClient is clicked
+2025-05-07 00:46:45 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 00:46:45 -- Element is now visible
+2025-05-07 00:46:45 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:46:45 -- Element is now clickable
+2025-05-07 00:46:48 -- Element Clicking on American Express is clicked
+2025-05-07 00:46:49 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 00:46:49 -- Element is now visible
+2025-05-07 00:46:49 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:46:49 -- Element is now clickable
+2025-05-07 00:46:51 -- Element Clicking on En Savoir Plus is clicked
+2025-05-07 00:46:57 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-07 00:46:57 -- Element is now visible
+2025-05-07 00:46:57 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:46:57 -- Element is now clickable
+2025-05-07 00:46:59 -- Element Clicking on Demandez Vorte is clicked
+2025-05-07 00:47:07 -- Waiting for the Clicked on MS element to become visible before applying the wait
+2025-05-07 00:47:07 -- Element is now visible
+2025-05-07 00:47:07 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:47:07 -- Element is now clickable
+2025-05-07 00:47:07 -- Element Clicked on MS is clicked
+2025-05-07 00:47:07 -- Scrolled till the element FirstName
+2025-05-07 00:47:07 -- Abhishek is sent
+2025-05-07 00:47:08 -- Srinivas is sent
+2025-05-07 00:47:08 -- 02111997 is sent
+2025-05-07 00:47:08 -- abhishek@gmail.com is sent
+2025-05-07 00:47:08 -- 612345678 is sent
+2025-05-07 00:47:08 -- Waiting for the Clicked on Submit element to become visible before applying the wait
+2025-05-07 00:47:08 -- Element is now visible
+2025-05-07 00:47:08 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:47:08 -- Element is now clickable
+2025-05-07 00:47:08 -- Element Clicked on Submit is clicked
+2025-05-07 00:58:43 -- Execution Log Started
+2025-05-07 00:58:50 -- CreditCard Logging Starts
+2025-05-07 00:58:50 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 00:58:50 -- Element is now visible
+2025-05-07 00:58:50 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:58:50 -- Element is now clickable
+2025-05-07 00:58:50 -- Element Clicking on DenverClient is clicked
+2025-05-07 00:58:51 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 00:58:51 -- Element is now visible
+2025-05-07 00:58:51 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:58:51 -- Element is now clickable
+2025-05-07 00:58:56 -- Element Clicking on American Express is clicked
+2025-05-07 00:58:56 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 00:58:57 -- Element is now visible
+2025-05-07 00:58:57 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:58:57 -- Element is now clickable
+2025-05-07 00:58:58 -- Element Clicking on En Savoir Plus is clicked
+2025-05-07 00:58:59 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-07 00:58:59 -- Element is now visible
+2025-05-07 00:58:59 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:58:59 -- Element is now clickable
+2025-05-07 00:59:01 -- Element Clicking on Demandez Vorte is clicked
+2025-05-07 00:59:10 -- Waiting for the Clicked on MS element to become visible before applying the wait
+2025-05-07 00:59:10 -- Element is now visible
+2025-05-07 00:59:10 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:59:10 -- Element is now clickable
+2025-05-07 00:59:10 -- Element Clicked on MS is clicked
+2025-05-07 00:59:10 -- Scrolled till the element FirstName
+2025-05-07 00:59:10 -- Abhishek is sent
+2025-05-07 00:59:10 -- Srinivas is sent
+2025-05-07 00:59:10 -- 02111997 is sent
+2025-05-07 00:59:11 -- abhishek@gmail.com is sent
+2025-05-07 00:59:11 -- 0612345678 is sent
+2025-05-07 00:59:11 -- Waiting for the Clicked on Submit element to become visible before applying the wait
+2025-05-07 00:59:11 -- Element is now visible
+2025-05-07 00:59:11 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 00:59:11 -- Element is now clickable
+2025-05-07 00:59:11 -- Element Clicked on Submit is clicked
+2025-05-07 00:59:53 -- Execution Log Started
+2025-05-07 00:59:59 -- CreditCard Logging Starts
+2025-05-07 00:59:59 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 01:00:00 -- Element is now visible
+2025-05-07 01:00:00 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:00:00 -- Element is now clickable
+2025-05-07 01:00:00 -- Element Clicking on DenverClient is clicked
+2025-05-07 01:00:00 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 01:00:00 -- Element is now visible
+2025-05-07 01:00:00 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:00:00 -- Element is now clickable
+2025-05-07 01:00:04 -- Element Clicking on American Express is clicked
+2025-05-07 01:00:05 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 01:00:05 -- Element is now visible
+2025-05-07 01:00:05 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:00:05 -- Element is now clickable
+2025-05-07 01:00:06 -- Element Clicking on En Savoir Plus is clicked
+2025-05-07 01:00:12 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-07 01:00:12 -- Element is now visible
+2025-05-07 01:00:12 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:00:12 -- Element is now clickable
+2025-05-07 01:00:14 -- Element Clicking on Demandez Vorte is clicked
+2025-05-07 01:00:23 -- Waiting for the Clicked on MS element to become visible before applying the wait
+2025-05-07 01:00:23 -- Element is now visible
+2025-05-07 01:00:23 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:00:23 -- Element is now clickable
+2025-05-07 01:00:23 -- Element Clicked on MS is clicked
+2025-05-07 01:00:23 -- Scrolled till the element FirstName
+2025-05-07 01:00:23 -- Abhishek is sent
+2025-05-07 01:00:23 -- Srinivas is sent
+2025-05-07 01:00:23 -- 02111997 is sent
+2025-05-07 01:00:24 -- abhishek@gmail.com is sent
+2025-05-07 01:00:24 -- 0612345678 is sent
+2025-05-07 01:00:24 -- Waiting for the Clicked on Submit element to become visible before applying the wait
+2025-05-07 01:00:24 -- Element is now visible
+2025-05-07 01:00:24 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:00:24 -- Element is now clickable
+2025-05-07 01:00:24 -- Element Clicked on Submit is clicked
+2025-05-07 01:04:05 -- Execution Log Started
+2025-05-07 01:04:11 -- CreditCard Logging Starts
+2025-05-07 01:04:11 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 01:04:11 -- Element is now visible
+2025-05-07 01:04:11 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:04:11 -- Element is now clickable
+2025-05-07 01:04:12 -- Element Clicking on DenverClient is clicked
+2025-05-07 01:04:13 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 01:04:13 -- Element is now visible
+2025-05-07 01:04:13 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:04:13 -- Element is now clickable
+2025-05-07 01:04:19 -- Element Clicking on American Express is clicked
+2025-05-07 01:04:19 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 01:04:19 -- Element is now visible
+2025-05-07 01:04:19 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:04:19 -- Element is now clickable
+2025-05-07 01:04:21 -- Element Clicking on En Savoir Plus is clicked
+2025-05-07 01:04:27 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-07 01:04:27 -- Element is now visible
+2025-05-07 01:04:27 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:04:27 -- Element is now clickable
+2025-05-07 01:04:29 -- Element Clicking on Demandez Vorte is clicked
+2025-05-07 01:04:37 -- Waiting for the Clicked on MS element to become visible before applying the wait
+2025-05-07 01:04:37 -- Element is now visible
+2025-05-07 01:04:37 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:04:37 -- Element is now clickable
+2025-05-07 01:04:37 -- Element Clicked on MS is clicked
+2025-05-07 01:04:37 -- Scrolled till the element FirstName
+2025-05-07 01:04:38 -- Abhishek is sent
+2025-05-07 01:04:38 -- Srinivas is sent
+2025-05-07 01:04:38 -- 02111997 is sent
+2025-05-07 01:04:38 -- abhishek@gmail.com is sent
+2025-05-07 01:04:38 -- 0612345678 is sent
+2025-05-07 01:04:38 -- Waiting for the Clicked on Submit element to become visible before applying the wait
+2025-05-07 01:04:38 -- Element is now visible
+2025-05-07 01:04:38 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:04:38 -- Element is now clickable
+2025-05-07 01:04:38 -- Element Clicked on Submit is clicked
+2025-05-07 01:04:57 -- Execution Log Started
+2025-05-07 01:05:03 -- CreditCard Logging Starts
+2025-05-07 01:05:03 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 01:05:03 -- Element is now visible
+2025-05-07 01:05:03 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:05:03 -- Element is now clickable
+2025-05-07 01:05:03 -- Element Clicking on DenverClient is clicked
+2025-05-07 01:05:04 -- Waiting for the Clicking on American Express element to become visible before applying the wait
+2025-05-07 01:05:04 -- Element is now visible
+2025-05-07 01:05:04 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:05:04 -- Element is now clickable
+2025-05-07 01:05:07 -- Element Clicking on American Express is clicked
+2025-05-07 01:05:08 -- Waiting for the Clicking on En Savoir Plus element to become visible before applying the wait
+2025-05-07 01:05:08 -- Element is now visible
+2025-05-07 01:05:08 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:05:08 -- Element is now clickable
+2025-05-07 01:05:10 -- Element Clicking on En Savoir Plus is clicked
+2025-05-07 01:05:16 -- Waiting for the Clicking on Demandez Vorte element to become visible before applying the wait
+2025-05-07 01:05:16 -- Element is now visible
+2025-05-07 01:05:16 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:05:16 -- Element is now clickable
+2025-05-07 01:05:18 -- Element Clicking on Demandez Vorte is clicked
+2025-05-07 01:05:27 -- Waiting for the Clicked on MS element to become visible before applying the wait
+2025-05-07 01:05:27 -- Element is now visible
+2025-05-07 01:05:27 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:05:27 -- Element is now clickable
+2025-05-07 01:05:27 -- Element Clicked on MS is clicked
+2025-05-07 01:05:27 -- Scrolled till the element FirstName
+2025-05-07 01:05:27 -- Abhishek is sent
+2025-05-07 01:05:27 -- Srinivas is sent
+2025-05-07 01:05:27 -- 02111997 is sent
+2025-05-07 01:05:28 -- abhishek@gmail.com is sent
+2025-05-07 01:05:28 -- 0612345678 is sent
+2025-05-07 01:05:28 -- Waiting for the Clicked on Submit element to become visible before applying the wait
+2025-05-07 01:05:28 -- Element is now visible
+2025-05-07 01:05:28 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:05:28 -- Element is now clickable
+2025-05-07 01:05:28 -- Element Clicked on Submit is clicked
+2025-05-07 01:17:16 -- Execution Log Started
+2025-05-07 01:17:28 -- CreditCard Logging Starts
+2025-05-07 01:17:29 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 01:17:16 -- Execution Log Started
+2025-05-07 01:17:29 -- CreditCardNEg Logging Starts
+2025-05-07 01:17:29 -- Waiting for the Clicking on DenverClient element to become visible before applying the wait
+2025-05-07 01:17:29 -- Element is now visible
+2025-05-07 01:17:29 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:17:29 -- Element is now visible
+2025-05-07 01:17:29 -- Waiting for the element to become clickable before applying the wait
+2025-05-07 01:17:29 -- Element is now clickable
+2025-05-07 01:17:29 -- Element is now clickable
