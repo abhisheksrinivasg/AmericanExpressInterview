@@ -77,7 +77,7 @@ public class HomePage extends BasePage{
 
             public void verify()
             {
-                String error = homePageLocators.alert.getText();
+                String error = commonMethods.getElementText(homePageLocators.alert,driver,"Alert");
                 Assert.assertEquals(error,testData.get("FirstNameError"));
             }
 
